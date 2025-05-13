@@ -113,10 +113,12 @@ Contributions are very welcome! Please follow these steps:
 4. Push to the branch ( git push origin new-feature )
 5. Create a Pull Request
 ## License
-This project is licensed under the MIT License .
+This project is licensed under the [MIT License](LICENSE) .
 
 ## Credits
-- Built on yt-dlp
-- User interface using Kivy
-- Icons and visual assets from Material Design Icons
+- Built on [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- User interface using [Kivy](https://kivy.org/)
+- Icons and visual assets from [Material Design Icons](https://pictogrammers.com/library/mdi/)
+
+--
 Made with ❤️ by Myunikon
