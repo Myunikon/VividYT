@@ -4,7 +4,7 @@
 
 [![Download](https://img.shields.io/badge/DOWNLOAD-v2025.04.30-brightgreen)](#)
 [![PyPI](https://img.shields.io/pypi/v/yt-dlp)](https://pypi.org/project/yt-dlp/)
-[![Donate](https://img.shields.io/badge/Donate-%E2%9D%A4-red)](#)
+[![Donate](https://img.shields.io/badge/Donate-%E2%9D%A4-red)]((https://paypal.me/MuhammadNawwaf))
 [![Discord](https://img.shields.io/badge/Discord-3.2K%20ONLINE-blue)](#)
 [![Supported Sites](https://img.shields.io/badge/Supported%20Sites-Click-green)](#)
 [![License: Unlicense](https://img.shields.io/badge/license-MIT_License-blue.svg)](#)
