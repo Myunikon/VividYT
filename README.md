@@ -120,5 +120,6 @@ This project is licensed under the [MIT License](LICENSE) .
 - User interface using [Kivy](https://kivy.org/)
 - Icons and visual assets from [Material Design Icons](https://pictogrammers.com/library/mdi/)
 
---
+---
+
 Made with ❤️ by Myunikon
